@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RandomDestination</string>
+    <string name="message_to_settings">Для корректной работы приложения необходимо разрешить использование геолокации в настройках приложения.</string>
+    <string name="message_to_request_again">Для корректной работы приложения необходимо разрешить использование геолокации.</string>
+    <string name="message_title">Внимание</string>
+    <string name="loading_title">Идет загрузка</string>
+    <string name="gps_unavailable">Ваш GPS выключен, хотите включить его?</string>
+    <string name="internet_unavailable">Интернет недоступен</string>
+    <string name="route_error">Ошибка при получении маршрута</string>
+    <string name="route_unavailable">Маршрут недоступен</string>
+    <string name="error_unknown">Произошла неизвестная ошибка</string>
+</resources>
